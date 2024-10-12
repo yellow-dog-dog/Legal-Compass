@@ -1,0 +1,28 @@
+baseURL: https://legal-compass-pkox8utms-yellow-dog-dogs-projects.vercel.app/
+languageCode: en-us
+title: Legal Compass
+theme: ["PaperMod"]
+menu:
+  main:
+    - name: "Privacy Policy"
+      url: "/privacy-policy/"
+      weight: 10
+      
+    - name: "About Us"
+      url: "/about/"
+      weight: 20
+    - name: "Contact Us"
+      url: "/contact/"
+      weight: 30
+    - name: "Terms of Service"
+      url: "/terms-of-service/"
+      weight: 40
+    - name: "Disclaimer"
+      url: "/disclaimer/"
+      weight: 50
+    - name: "FAQ"
+      url: "/faq/"
+      weight: 60
+    - name: "Cookie Policy"
+      url: "/cookie-policy/"
+      weight: 70
